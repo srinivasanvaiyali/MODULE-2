@@ -54,5 +54,5 @@ int main() {
 
 
 
-##Result:
+## Result:
 Hence the program is executed successfully.
